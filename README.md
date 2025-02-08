@@ -1,3 +1,11 @@
+COMPANY: CODTECH IT SOLUTIONS 
+NAME: PAVULURI ASWINI 
+INTERN ID : CT08KLR 
+DOMAIN : Full Stack Web Development 
+BATCH DURATION : January 10th, 2025 to February10th, 2025 
+MENTOR NAME : Neela Santhosh Kumar
+DESCRIPTION
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
